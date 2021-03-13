@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a43bedf8-84f0-4147-9b38-57c224b83498" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -45,13 +49,13 @@
       <recent name="Chapter_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.One_11">
-    <configuration name="One_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter_1.One_10" />
+  <component name="RunManager" selected="Application.Two_22">
+    <configuration name="Two_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_2.Two_13" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter_1.*" />
+          <option name="PATTERN" value="Chapter_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter_1.One_11" />
+    <configuration name="Two_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_2.Two_15" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter_1.*" />
+          <option name="PATTERN" value="Chapter_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter_1.One_12" />
+    <configuration name="Two_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_2.Two_17" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter_1.*" />
+          <option name="PATTERN" value="Chapter_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter_1.One_13" />
+    <configuration name="Two_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_2.Two_19" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter_1.*" />
+          <option name="PATTERN" value="Chapter_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter_1.One_3" />
+    <configuration name="Two_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_2.Two_22" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter_1.*" />
+          <option name="PATTERN" value="Chapter_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,26 +115,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.One_11" />
-        <item itemvalue="Application.One_3" />
-        <item itemvalue="Application.One_13" />
-        <item itemvalue="Application.One_10" />
-        <item itemvalue="Application.One_12" />
+        <item itemvalue="Application.Two_22" />
+        <item itemvalue="Application.Two_13" />
+        <item itemvalue="Application.Two_19" />
+        <item itemvalue="Application.Two_17" />
+        <item itemvalue="Application.Two_15" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +145,8 @@
       <option name="presentableId" value="Default" />
       <updated>1615096935923</updated>
       <workItem from="1615096938040" duration="298000" />
-      <workItem from="1615097395011" duration="2864000" />
+      <workItem from="1615097395011" duration="3465000" />
+      <workItem from="1615618232352" duration="9902000" />
     </task>
     <servers />
   </component>
