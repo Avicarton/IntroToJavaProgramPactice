@@ -6,13 +6,22 @@ public class Three_8 {
     public static Scanner in = new Scanner(System.in);
     public static void main(String[] args){
         System.out.println("Enter three numbers: ");
-        int a = in.nextInt();
-        int b = in.nextInt();
-        int c = in.nextInt();
-        int max = Math.max(a, Math.max(b, c));
-        int min = Math.min(a, Math.min(b, c));
+        int[] arr = new int[3];
+        arr[0] = in.nextInt();arr[1] = in.nextInt();arr[2] = in.nextInt();
 
-        //System.out.println(String.format("Output: %d %d %d",max,,min));
+        for(int i =0 ; i<arr.length-1 ; i++) {
+            for(int j=0 ; j<arr.length-1-i ; j++) {
+                if(arr[j]>arr[j+1]) {
+                    int temp = arr[j];
+                    arr[j]=arr[j+1];
+                    arr[j+1]=temp;
+                }
+            }
+        }
+        for(int i=0;i<arr.length;i++){
+            System.out.print(arr[i]+" ");
+        }
 
     }
+
 }
