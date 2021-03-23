@@ -49,9 +49,9 @@
       <recent name="Chapter_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Three_23">
-    <configuration name="Three_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter_3.Three_16" />
+  <component name="RunManager" selected="Application.Three_31">
+    <configuration name="Three_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_3.Three_14" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter_3.Three_22" />
+    <configuration name="Three_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_3.Three_15" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter_3.Three_23" />
+    <configuration name="Three_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_3.Three_18" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter_3.Three_7" />
+    <configuration name="Three_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_3.Three_19" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter_3.Three_8" />
+    <configuration name="Three_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_3.Three_31" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
@@ -115,24 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Three_23" />
-        <item itemvalue="Application.Three_22" />
-        <item itemvalue="Application.Three_16" />
-        <item itemvalue="Application.Three_8" />
-        <item itemvalue="Application.Three_7" />
+        <item itemvalue="Application.Three_31" />
+        <item itemvalue="Application.Three_18" />
+        <item itemvalue="Application.Three_15" />
+        <item itemvalue="Application.Three_14" />
+        <item itemvalue="Application.Three_19" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +154,13 @@
       <workItem from="1615766133609" duration="5526000" />
       <workItem from="1615857278159" duration="8746000" />
       <workItem from="1615897970346" duration="406000" />
-      <workItem from="1616303706875" duration="2290000" />
+      <workItem from="1616303706875" duration="5398000" />
+      <workItem from="1616335827938" duration="1549000" />
+      <workItem from="1616370497492" duration="24000" />
+      <workItem from="1616375420958" duration="1541000" />
+      <workItem from="1616469756842" duration="150000" />
+      <workItem from="1616495808920" duration="221000" />
+      <workItem from="1616496111621" duration="3513000" />
     </task>
     <servers />
   </component>
