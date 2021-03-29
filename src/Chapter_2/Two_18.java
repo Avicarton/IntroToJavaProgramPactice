@@ -1,6 +1,4 @@
-package Chapter_2;
-
-import java.util.Scanner;
+package chapter_2;
 
 public class Two_18 {
     public static void main(String[] args){

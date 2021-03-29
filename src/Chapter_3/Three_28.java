@@ -1,4 +1,4 @@
-package Chapter_3;
+package chapter_3;
 
 import java.util.Scanner;
 
@@ -14,14 +14,13 @@ public class Three_28 {
         double x_dist = Math.abs(x2 - x1);
         double y_dist = Math.abs(y2 - y1);
 
-        double w_dist = Math.abs(w1 - w2);
-        double h_dist = Math.abs(h1 - h2);
-
-        if(x_dist >= 0.5 * (w1 + w2) && y_dist >= 0.5 * (h1 + h2))
-            System.out.println("r2 does not overlap r1");
-        else if (x_dist <= w_dist && y_dist <= h_dist)
+        if(x_dist <= (w1 - w2) / 2 && y_dist <= (h1 - h2) / 2){
             System.out.println("r2 is inside r1");
-        else
+        }else if(x_dist <= (w1 + w2) / 2 && y_dist <= (h1 + h2) / 2){
             System.out.println("r2 overlaps r1");
+        }else{
+            System.out.println("r2 does not overlap r1");
+        }
+
     }
 }
