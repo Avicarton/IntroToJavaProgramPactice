@@ -11,9 +11,9 @@
 ## 目录
 | 章节 | 描述 | 链接 |
 | :-----:| :----: | :----: |
-| chapter_1.01 | 显示三条信息 | [One_1](./src/chapter_1/One_1.java) |
-| chapter_1.02 | 显示五条信息 | [One_2](./src/chapter_1/One_2.java) |
-| chapter_1.03 | 显示图案 | [One_3](./src/chapter_1/One_3.java) |
+| chapter_1.01 | 显示三条信息 | [One_1](/src/chapter_1/One_1.java) |
+| chapter_1.02 | 显示五条信息 | [One_2](/src/chapter_1/One_2.java) |
+| chapter_1.03 | 显示图案 | [One_3](/src/chapter_1/One_3.java) |
 | chapter_1.04 | 打印表格 | [One_4](/src/chapter_1/One_4.java) |
 | chapter_1.05 | 计算表达式 | [One_5](/src/chapter_1/One_5.java) |
 | chapter_1.06 | 数列求和 | [One_6](/src/chapter_1/One_6.java) |
