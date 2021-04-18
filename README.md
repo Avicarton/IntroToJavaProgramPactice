@@ -107,3 +107,54 @@
 | chapter_4.24 | 对三个城市排序 | [Four_24](/src/chapter_04/Four_24.java) |
 | chapter_4.25 | 生成车牌号码 | [Four_25](/src/chapter_04/Four_25.java) |
 | chapter_4.26 | 金融应用: 货币单位 | [Four_26](/src/chapter_04/Four_26.java) |
+| chapter_5.01 | 统计正数和负数的个数然后计算这些数的平均值 | [Five_01](/src/chapter_05/Five_01.java) |
+| chapter_5.02 | 重复加法 | [Five_02](/src/chapter_05/Five_02.java) |
+| chapter_5.03 | 将千克转换成磅 | [Five_03](/src/chapter_05/Five_03.java) |
+| chapter_5.04 | 将英里转换成米 | [Five_04](/src/chapter_05/Five_04.java) |
+| chapter_5.05 | 千克与磅之间的互换 | [Five_05](/src/chapter_05/Five_05.java) |
+| chapter_5.06 | 英里与千米之间的互换 | [Five_06](/src/chapter_05/Five_06.java) |
+| chapter_5.07 | 金融应用: 计算将来的学费 | [Five_07](/src/chapter_05/Five_07.java) |
+| chapter_5.08 | 找出得最高分的学生 | [Five_08](/src/chapter_05/Five_08.java) |
+| chapter_5.09 | 找出的最高分的前两个学生 | [Five_09](/src/chapter_05/Five_09.java) |
+| chapter_5.10 | 找出能被5和6整除的书 | [Five_10](/src/chapter_05/Five_10.java) |
+| chapter_5.11 | 找出能被5或6整除,但不能被两者同时整除的数 | [Five_11](/src/chapter_05/Five_11.java) |
+| chapter_5.12 | 求满足n<sup>2</sup>>12 000的n的最小值 | [Five_12](/src/chapter_05/Five_12.java) |
+| chapter_5.13 | 求满足n<sup>3</sup><12 000的n的最大值 | [Five_13](/src/chapter_05/Five_13.java) |
+| chapter_5.14 | 计算最大公约数 | [Five_14](/src/chapter_05/Five_14.java) |
+| chapter_5.15 | 显示ASCII码字符表 | [Five_15](/src/chapter_05/Five_15.java) |
+| chapter_5.16 | 找出一个整数的因子 | [Five_16](/src/chapter_05/Five_16.java) |
+| chapter_5.17 | 显示金字塔 | [Five_17](/src/chapter_05/Five_17.java) |
+| chapter_5.18 | 使用循环语句打印4个图案 | [Five_18](/src/chapter_05/Five_18.java) |
+| chapter_5.19 | 打印金字塔型的数字 | [Five_19](/src/chapter_05/Five_19.java) |
+| chapter_5.20 | 打印2到1000之间的素数 | [Five_20](/src/chapter_05/Five_20.java) |
+| chapter_5.21 | 金融应用: 比较不同利率下的贷款 | [Five_21](/src/chapter_05/Five_21.java) |
+| chapter_5.22 | 金融应用: 显示分期还贷时间表 | [Five_22](/src/chapter_05/Five_22.java) |
+| chapter_5.23 | 演示抵消错误 | [Five_23](/src/chapter_05/Five_23.java) |
+| chapter_5.24 | 数列求和 | [Five_24](/src/chapter_05/Five_24.java) |
+| chapter_5.25 | 计算Π | [Five_25](/src/chapter_05/Five_25.java) |
+| chapter_5.26 | 计算e | [Five_26](/src/chapter_05/Five_26.java) |
+| chapter_5.27 | 显示闰年 | [Five_27](/src/chapter_05/Five_27.java) |
+| chapter_5.28 | 显示每月第一天是星期几 | [Five_28](/src/chapter_05/Five_28.java) |
+| chapter_5.29 | 显示日历 | [Five_29](/src/chapter_05/Five_29.java) |
+| chapter_5.30 | 金融应用: 复利值 | [Five_30](/src/chapter_05/Five_30.java) |
+| chapter_5.31 | 金融应用: 计算CD价值 | [Five_31](/src/chapter_05/Five_31.java) |
+| chapter_5.32 | 游戏: 彩票 | [Five_32](/src/chapter_05/Five_32.java) |
+| chapter_5.33 | 完全数 | [Five_33](/src/chapter_05/Five_33.java) |
+| chapter_5.34 | 游戏: 石头、剪刀、布 | [Five_34](/src/chapter_05/Five_34.java) |
+| chapter_5.35 | 加法 | [Five_35](/src/chapter_05/Five_35.java) |
+| chapter_5.36 | 商业应用: 检测ISBN | [Five_36](/src/chapter_05/Five_36.java) |
+| chapter_5.37 | 十进制转换为二进制 | [Five_37](/src/chapter_05/Five_37.java) |
+| chapter_5.38 | 十进制转换为八进制 | [Five_38](/src/chapter_05/Five_38.java) |
+| chapter_5.39 | 金融应用: 求销售总额 | [Five_39](/src/chapter_05/Five_39.java) |
+| chapter_5.40 | 模拟: 正面或反面 | [Five_40](/src/chapter_05/Five_40.java) |
+| chapter_5.41 | 最大数的出现次数 | [Five_41](/src/chapter_05/Five_41.java) |
+| chapter_5.42 | 金融应用: 求销售额 | [Five_42](/src/chapter_05/Five_42.java) |
+| chapter_5.43 | 数学: 组合 | [Five_43](/src/chapter_05/Five_43.java) |
+| chapter_5.44 | 计算机体系结构: 比特级的操作 | [Five_44](/src/chapter_05/Five_44.java) |
+| chapter_5.45 | 统计: 计算平均值和标准方差 | [Five_45](/src/chapter_05/Five_45.java) |
+| chapter_5.46 | 倒排一个字符串 | [Five_46](/src/chapter_05/Five_46.java) |
+| chapter_5.47 | 商业: 检测ISBN-13 | [Five_47](/src/chapter_05/Five_47.java) |
+| chapter_5.48 | 处理字符串 | [Five_48](/src/chapter_05/Five_48.java) |
+| chapter_5.49 | 对元音和辅音进行计数 | [Five_49](/src/chapter_05/Five_49.java) |
+| chapter_5.50 | 对大写字母计数 | [Five_50](/src/chapter_05/Five_50.java) |
+| chapter_5.51 | 最长的共同前缀 | [Five_51](/src/chapter_05/Five_51.java) |
