@@ -50,13 +50,13 @@
       <recent name="Chapter_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Three_28">
-    <configuration name="Three_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_3.Three_17" />
+  <component name="RunManager" selected="Application.Five_07">
+    <configuration name="Five_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_03" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_3.*" />
+          <option name="PATTERN" value="chapter_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_3.Three_24" />
+    <configuration name="Five_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_04" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_3.*" />
+          <option name="PATTERN" value="chapter_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_3.Three_25" />
+    <configuration name="Five_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_05" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_3.*" />
+          <option name="PATTERN" value="chapter_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_3.Three_28" />
+    <configuration name="Five_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_06" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_3.*" />
+          <option name="PATTERN" value="chapter_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_3.Three_34" />
+    <configuration name="Five_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_07" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_3.*" />
+          <option name="PATTERN" value="chapter_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,24 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Three_28" />
-        <item itemvalue="Application.Three_34" />
-        <item itemvalue="Application.Three_25" />
-        <item itemvalue="Application.Three_24" />
-        <item itemvalue="Application.Three_17" />
+        <item itemvalue="Application.Five_07" />
+        <item itemvalue="Application.Five_06" />
+        <item itemvalue="Application.Five_05" />
+        <item itemvalue="Application.Five_04" />
+        <item itemvalue="Application.Five_03" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +172,8 @@
       <workItem from="1617069133244" duration="133000" />
       <workItem from="1617069801573" duration="643000" />
       <workItem from="1617674202481" duration="317000" />
-      <workItem from="1618742803277" duration="2053000" />
+      <workItem from="1618742803277" duration="3238000" />
+      <workItem from="1618791683763" duration="1829000" />
     </task>
     <servers />
   </component>
