@@ -41,6 +41,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -50,9 +51,9 @@
       <recent name="Chapter_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Five_07">
-    <configuration name="Five_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_03" />
+  <component name="RunManager" selected="Application.Five_25">
+    <configuration name="Five_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_24" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Five_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_04" />
+    <configuration name="Five_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_25" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Five_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_05" />
+    <configuration name="Five_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_26" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Five_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_06" />
+    <configuration name="Five_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_27" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Five_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_05.Five_07" />
+    <configuration name="One_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_01.One_07" />
       <module name="IntroToJavaProgramPactice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_05.*" />
+          <option name="PATTERN" value="chapter_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,26 +117,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Five_07" />
-        <item itemvalue="Application.Five_06" />
-        <item itemvalue="Application.Five_05" />
-        <item itemvalue="Application.Five_04" />
-        <item itemvalue="Application.Five_03" />
+        <item itemvalue="Application.Five_25" />
+        <item itemvalue="Application.One_07" />
+        <item itemvalue="Application.Five_24" />
+        <item itemvalue="Application.Five_26" />
+        <item itemvalue="Application.Five_27" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +172,8 @@
       <workItem from="1617069801573" duration="643000" />
       <workItem from="1617674202481" duration="317000" />
       <workItem from="1618742803277" duration="3238000" />
-      <workItem from="1618791683763" duration="1829000" />
+      <workItem from="1618791683763" duration="4116000" />
+      <workItem from="1618812077016" duration="10686000" />
     </task>
     <servers />
   </component>
