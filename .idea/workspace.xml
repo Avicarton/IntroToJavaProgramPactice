@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a43bedf8-84f0-4147-9b38-57c224b83498" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter_06/Six_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntroToJavaProgramPactice/chapter_05/Five_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntroToJavaProgramPactice/chapter_05/Five_25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_05/Five_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_05/Five_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_05/Five_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_05/Five_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_05/Five_41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_05/Five_41.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,13 +120,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -186,10 +185,22 @@
       <workItem from="1619317148445" duration="1173000" />
       <workItem from="1619394279462" duration="1509000" />
       <workItem from="1619489050216" duration="5951000" />
+      <workItem from="1619520961491" duration="382000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
