@@ -13,9 +13,5 @@ public class Five_25 {
             System.out.println(4*result);
             result = 0;
         }
-
-
-
-
     }
 }
