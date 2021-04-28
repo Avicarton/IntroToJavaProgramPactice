@@ -158,3 +158,42 @@
 | chapter_5.49 | 对元音和辅音进行计数 | [Five_49](/src/chapter_05/Five_49.java) |
 | chapter_5.50 | 对大写字母计数 | [Five_50](/src/chapter_05/Five_50.java) |
 | chapter_5.51 | 最长的共同前缀 | [Five_51](/src/chapter_05/Five_51.java) |
+| chapter_6.01 | 数学: 五角数 | [Six_01](/src/chapter_06/Six_01.java) |
+| chapter_6.02 | 求一个整数各位数字之和 | [Six_02](/src/chapter_06/Six_02.java) |
+| chapter_6.03 | 回文整数 | [Six_03](/src/chapter_06/Six_03.java) |
+| chapter_6.04 | 反序显示一个整数 | [Six_04](/src/chapter_06/Six_04.java) |
+| chapter_6.05 | 对三个数排序 | [Six_05](/src/chapter_06/Six_05.java) |
+| chapter_6.06 | 显示图案 | [Six_06](/src/chapter_06/Six_06.java) |
+| chapter_6.07 | 金融应用: 计算未来投资回报值 | [Six_07](/src/chapter_06/Six_07.java) |
+| chapter_6.08 | 摄氏度和华氏度之间的转换 | [Six_08](/src/chapter_06/Six_08.java) |
+| chapter_6.09 | 英尺和米之间的转换 | [Six_09](/src/chapter_06/Six_09.java) |
+| chapter_6.10 | 使用isPrime方法 | [Six_10](/src/chapter_06/Six_10.java) |
+| chapter_6.11 | 金融应用: 计算酬金 | [Six_11](/src/chapter_06/Six_11.java) |
+| chapter_6.12 | 显示字符 | [Six_12](/src/chapter_06/Six_12.java) |
+| chapter_6.13 | 数列求和 | [Six_13](/src/chapter_06/Six_13.java) |
+| chapter_6.14 | 估算Π | [Six_14](/src/chapter_06/Six_14.java) |
+| chapter_6.15 | 金融应用: 打印税表 | [Six_15](/src/chapter_06/Six_15.java) |
+| chapter_6.16 | 一年的天数 | [Six_16](/src/chapter_06/Six_16.java) |
+| chapter_6.17 | 显示0和1构成的矩阵 | [Six_17](/src/chapter_06/Six_17.java) |
+| chapter_6.18 | 检测密码 | [Six_18](/src/chapter_06/Six_18.java) |
+| chapter_6.19 | 三角形 | [Six_19](/src/chapter_06/Six_19.java) |
+| chapter_6.20 | 计算一个字符串中字母的个数 | [Six_20](/src/chapter_06/Six_20.java) |
+| chapter_6.21 | 电话按键盘 | [Six_21](/src/chapter_06/Six_21.java) |
+| chapter_6.22 | 数学: 平方根的近似求法 | [Six_22](/src/chapter_06/Six_22.java) |
+| chapter_6.23 | 指定字符的出现次数 | [Six_23](/src/chapter_06/Six_23.java) |
+| chapter_6.24 | 显示当前日期和时间 | [Six_24](/src/chapter_06/Six_24.java) |
+| chapter_6.25 | 将毫秒转换成小时数、分钟数和秒数 | [Six_25](/src/chapter_06/Six_25.java) |
+| chapter_6.26 | 回文素数 | [Six_26](/src/chapter_06/Six_26.java) |
+| chapter_6.27 | 反素数 | [Six_27](/src/chapter_06/Six_27.java) |
+| chapter_6.28 | 梅森素数 | [Six_28](/src/chapter_06/Six_28.java) |
+| chapter_6.29 | 双素数 | [Six_29](/src/chapter_06/Six_29.java) |
+| chapter_6.30 | 游戏: 双骰子赌博 | [Six_30](/src/chapter_06/Six_30.java) |
+| chapter_6.31 | 金融应用: 信用卡号的合法性验证 | [Six_31](/src/chapter_06/Six_31.java) |
+| chapter_6.32 | 游戏: 赢取双骰子赌博游戏的机会 | [Six_32](/src/chapter_06/Six_32.java) |
+| chapter_6.33 | 当前的日期和时间 | [Six_33](/src/chapter_06/Six_33.java) |
+| chapter_6.34 | 打印日历 | [Six_34](/src/chapter_06/Six_34.java) |
+| chapter_6.35 | 几何: 五边形的面积 | [Six_35](/src/chapter_06/Six_35.java) |
+| chapter_6.36 | 几何: 正多边形的面积 | [Six_36](/src/chapter_06/Six_36.java) |
+| chapter_6.37 | 格式化整数 | [Six_37](/src/chapter_06/Six_37.java) |
+| chapter_6.38 | 生成随机字符 | [Six_38](/src/chapter_06/Six_38.java) |
+| chapter_6.39 | 几何: 点的位置 | [Six_39](/src/chapter_06/Six_39.java) |
